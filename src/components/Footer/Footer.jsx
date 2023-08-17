@@ -56,7 +56,7 @@ const Footer = () => {
           <span className="text">
             JSDEVSTORE 2022 CREATED BY JS DEV. PREMIUM E-COMMERCE SOLUTIONS.
           </span>
-          <img src={Payment} />
+          <img src={Payment} alt=""/>
         </div>
       </div>
     </div>

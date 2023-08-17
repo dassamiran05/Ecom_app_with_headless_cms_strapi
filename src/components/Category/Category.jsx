@@ -1,5 +1,4 @@
 import "./Category.scss";
-import img1 from "../../assets/category/cat-1.jpg";
 import Products from "../Products/Products";
 import { useParams } from "react-router-dom";
 import useFetch from "../../hook/useFetch";
